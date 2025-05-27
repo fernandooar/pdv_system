@@ -11,4 +11,5 @@ header('Location: ' . $login_page_url);
 // Importante: Terminar a execução do script após o redirecionamento
 exit();
 
+
 ?>
