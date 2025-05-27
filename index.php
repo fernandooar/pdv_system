@@ -8,7 +8,7 @@ $login_page_url = 'views/login.php';
 // Redireciona o navegador para a página de login
 header('Location: ' . $login_page_url);
 
-// Importante: Terminar a execução do script após o redirecionamento
+
 exit();
 
 
